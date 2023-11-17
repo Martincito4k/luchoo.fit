@@ -245,6 +245,10 @@ section .title::after{
 }
 .about .about-content .right ul{
     font-size: 20px;
+    padding: 20px;
+}
+.about .about-content .right li{
+    margin-bottom: 20px
 }
 .about .about-content .right a{
     display: inline-block;
