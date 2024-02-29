@@ -6,7 +6,7 @@
 <br>
 <h3>Home :
 <br />
-<img align="center" src="https://media.discordapp.net/attachments/1149456581054963773/1174885957263179837/image.png?ex=656938d0&is=6556c3d0&hm=722d1fc0c9ba68d72117983d639cc524e882d827d6fd9fba6c3088f3412c32d3&=&width=1181&height=559"  />
+<img align="center" src="Asset/MainPage.png"  />
 <br>
 About Me :
 <br>
